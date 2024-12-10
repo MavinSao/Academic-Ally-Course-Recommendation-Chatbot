@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+langchain_community
+openai
+faiss-cpu
+pandas
+tiktoken
+sentence-transformers
+accelerate
+multiprocess
