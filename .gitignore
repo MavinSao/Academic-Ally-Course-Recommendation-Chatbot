@@ -24,9 +24,6 @@ ENV/
 # Environment variables
 .env
 
-# FAISS index
-faiss_index/
-
 # Logs
 *.log
 
